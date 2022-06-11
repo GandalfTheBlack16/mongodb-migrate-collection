@@ -1,0 +1,19 @@
+{
+  "name": "ahorra-en-grupo-dump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongodb": "^4.7.0",
+    "pino": "^8.0.0",
+    "pino-pretty": "^8.0.0"
+  }
+}
