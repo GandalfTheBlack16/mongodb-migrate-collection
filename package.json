@@ -1,14 +1,14 @@
 {
-  "name": "ahorra-en-grupo-dump",
+  "name": "mongodb-migrate-collection",
   "version": "1.0.0",
-  "description": "",
+  "description": "Migration tool to transfer a collection from one to another database",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "GandalfTheBlack",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
